@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Project - Final\\Project 2\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Project - Final - Copy\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Project - Final\\Project 2\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Project - Final - Copy\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project - Final\\Project 2\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project - Final - Copy\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj",
         "projectName": "MutualFundNAV1",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Project - Final\\Project 2\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Project - Final - Copy\\MutualFundNAV1\\MutualFundNAV1\\MutualFundNAV1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Project - Final\\Project 2\\MutualFundNAV1\\MutualFundNAV1\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Project - Final - Copy\\MutualFundNAV1\\MutualFundNAV1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.1.1, )"
